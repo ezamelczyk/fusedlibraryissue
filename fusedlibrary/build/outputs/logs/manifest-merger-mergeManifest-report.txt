@@ -1,0 +1,13 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zamelczyk/AndroidStudioProjects/MyApplication2/fusedlibrary/build/tmp/FusedLibraryManifestMerger/tempAndroidManifest18318390819848680718.xml:2:13-83
+INJECTED from /Users/zamelczyk/AndroidStudioProjects/MyApplication2/fusedlibrary/build/tmp/FusedLibraryManifestMerger/tempAndroidManifest18318390819848680718.xml:2:13-83
+	package
+		INJECTED from /Users/zamelczyk/AndroidStudioProjects/MyApplication2/fusedlibrary/build/tmp/FusedLibraryManifestMerger/tempAndroidManifest18318390819848680718.xml
+	xmlns:android
+		ADDED from /Users/zamelczyk/AndroidStudioProjects/MyApplication2/fusedlibrary/build/tmp/FusedLibraryManifestMerger/tempAndroidManifest18318390819848680718.xml:2:23-81
+uses-sdk
+INJECTED from /Users/zamelczyk/AndroidStudioProjects/MyApplication2/fusedlibrary/build/tmp/FusedLibraryManifestMerger/tempAndroidManifest18318390819848680718.xml reason: use-sdk injection requested
+INJECTED from /Users/zamelczyk/AndroidStudioProjects/MyApplication2/fusedlibrary/build/tmp/FusedLibraryManifestMerger/tempAndroidManifest18318390819848680718.xml
+	android:minSdkVersion
+		INJECTED from /Users/zamelczyk/AndroidStudioProjects/MyApplication2/fusedlibrary/build/tmp/FusedLibraryManifestMerger/tempAndroidManifest18318390819848680718.xml
